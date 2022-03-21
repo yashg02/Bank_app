@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bank</string>
+    <string name="send">Send</string>
+    <string name="receive">Receive</string>
+    <string name="transfer_money">Transfer Money</string>
+    <string name="man">man</string>
+    <string name="acc_balance">Acc Balance:</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="welcome_to_our_bank">Welcome to Tspark bank</string>
+    <string name="view_customers">View Customers</string>
+    <string name="todo">TODO</string>
+</resources>
